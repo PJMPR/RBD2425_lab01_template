@@ -27,9 +27,12 @@ docker pull mariadb
 Uruchom kontener za pomocą poniższej komendy, dostosowując ustawienia według swoich potrzeb:
 
 ```bash
-docker run -d --name mariadb-container -e MARIADB_ROOT_PASSWORD=password -e MARIADB_DATABASE=westeros -e MARIADB_USER=pjwstk -e MARIADB_PASSWORD=password -p 3306:3306 mariadb
+docker run -d --name mariadb-container -e MARIADB_ROOT_PASSWORD=password -e MARIADB_DATABASE=workdb -e MARIADB_USER=pjwstk -e MARIADB_PASSWORD=password -p 3306:3306 mariadb
 ```
-
+hasło roota: password
+nazwa bazy: workdb
+user: pjwstk
+hasło usera: password
 
 ### 3. Sprawdź działanie kontenera
 
