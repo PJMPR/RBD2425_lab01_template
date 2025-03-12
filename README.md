@@ -6,4 +6,7 @@
    - **TICKETS**
    - **BOOKINGS**
 
-2. **Zamodeluj układ relacji** łączący wszystkie z wymienionych wyżej tabel, korzystając z narzędzia **Vertabelo** lub **draw.io**.
+2. **Zamodeluj układ relacji** łączący wszystkie z wymienionych wyżej tabel, korzystając z narzędzia:
+   - **[Vertabelo](https://vertabelo.com/)**
+   - **[draw.io](https://app.diagrams.net/)**
+
